@@ -230,9 +230,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 668192506}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 50b2fa5d5dc9c4227b39d22af9b7f850, type: 3}
+  m_Script: {fileID: 11500000, guid: c6c89735cdfdf42b19ba80170650779c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  DisplayName: Cubus
+  Role: Knight
+  Skills:
+  - Brawling
+  - Binge drinking
+  - Poetry
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -518,6 +524,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1284641511}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d61334b877e8647158c0e38031969dd6, type: 3}
+  m_Script: {fileID: 11500000, guid: c6c89735cdfdf42b19ba80170650779c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  DisplayName: Spheros
+  Role: Mage
+  Skills:
+  - Great sense of humor
